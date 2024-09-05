@@ -21,7 +21,7 @@ The repository is organized into folders representing different cloned websites.
 - `readme.md` – Documentation specific to the cloned site.
 
 ### 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](license) file for details.
 
 ### 🙏 Acknowledgements
 A heartfelt thank you to the designers and developers of the original websites that served as inspiration for these clones. Your innovative designs and attention to detail have been the guiding light for this project.
